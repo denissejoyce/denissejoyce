@@ -1,4 +1,4 @@
-## Hey, you! Welcome to Denisse Joyce's GitHub profile 🐈‍⬛
+# Hey, you! Welcome to Denisse Joyce's GitHub profile 🐈‍⬛
 ### Pronouns: She/Her
 
 I made a (website)[itsmedenisse.com] for myself, check it out! You may also reach me via:
