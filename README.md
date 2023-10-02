@@ -7,3 +7,5 @@ I made a [website](https://www.itsmedenisse.com) for myself, check it out! You m
 - 📚 https://medium.com/@denisse.alido
 - 👩🏽‍💻 https://www.frontendmentor.io/profile/denissejoyce
 - 📊 https://www.kaggle.com/denissejoycealido
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?denissejoyce=anuraghazra&hide_progress=true)
