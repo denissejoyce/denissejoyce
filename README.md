@@ -8,4 +8,4 @@ I made a [website](https://www.itsmedenisse.com) for myself, check it out! You m
 - 👩🏽‍💻 https://www.frontendmentor.io/profile/denissejoyce
 - 📊 https://www.kaggle.com/denissejoycealido
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/denissejoyce/denissejoyce)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denissejoyce&hide_progress=true)
