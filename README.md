@@ -1,4 +1,5 @@
-# Hey, you! Welcome to Denisse Joyce's GitHub profile 🐈‍⬛
+![denisse-cover](https://github.com/denissejoyce/denissejoyce/assets/88027347/c375cdbe-29fb-4404-953e-d0f5c3cd0899)
+
 ### Pronouns: She/Her
 
 I made a [website](https://www.itsmedenisse.com) for myself, check it out! 
