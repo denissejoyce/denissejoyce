@@ -1,4 +1,5 @@
-![denisse-cover](https://github.com/denissejoyce/denissejoyce/assets/88027347/c375cdbe-29fb-4404-953e-d0f5c3cd0899)
+![denisse-new-cover](https://github.com/denissejoyce/denissejoyce/assets/88027347/336227b3-b1af-4653-9135-571483e49357)
+
 
 ### Pronouns: She/Her
 
