@@ -1,4 +1,5 @@
-![cover-denisse](https://github.com/denissejoyce/denissejoyce/assets/88027347/6aff1f8b-704c-4245-95e9-a3aa21ac98bf)
+![cover-den](https://github.com/denissejoyce/denissejoyce/assets/88027347/87af699b-c21a-438a-8732-ee970a287806)
+
 
 
 
@@ -6,7 +7,7 @@
 
 I made a [website](https://www.itsmedenisse.com) for myself, check it out! 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denissejoyce&hide_progress=true&theme=transparent)
+![Top Langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=denissejoyce&hide_progress=true&theme=transparent&)
 
 You may also reach me via:
 
