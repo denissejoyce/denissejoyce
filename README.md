@@ -3,9 +3,9 @@
 
 
 
-<p align="center">### Pronouns: She/Her</p>
+<p align="center">Pronouns: She/Her</p>
 
-I made a [website](https://www.itsmedenisse.com) for myself, check it out! 
+<p align="center">I made a [website](https://www.itsmedenisse.com) for myself, check it out!<p align="center"> 
 
 ![Top Langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=denissejoyce&hide_progress=true&theme=transparent&)
 
