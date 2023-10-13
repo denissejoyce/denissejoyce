@@ -5,7 +5,7 @@
 
 <p align="center">Pronouns: She/Her</p>
 
-<p align="center">I made a [website](https://www.itsmedenisse.com) for myself, check it out!<p align="center"> 
+<p align="center">I made a <a href="https://www.itsmedenisse.com">website</a> for myself, check it out!</p> 
 
 ![Top Langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=denissejoyce&hide_progress=true&theme=transparent&)
 
