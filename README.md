@@ -2,13 +2,13 @@
 
 <p align="center">Pronouns: She/Her</p>
 <p align="center">I made a <a href="https://www.itsmedenisse.com">website</a> for myself, check it out!</p> 
-<p align="center">You may also reach me via:</p>
-<center>
+
+You may also reach me via:
 - 📫 denisse.alido@gmail.com
 - 📚 https://medium.com/@denisse.alido
 - 👩🏽‍💻 https://www.frontendmentor.io/profile/denissejoyce
 - 📊 https://www.kaggle.com/denissejoycealido
-</center>
+
 ![Top Langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=denissejoyce&hide_progress=true&theme=transparent&)
 
 
