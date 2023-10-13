@@ -13,6 +13,6 @@ You may also reach me via:
 
 <br>
 ![Top Langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=denissejoyce&hide_progress=true&theme=transparent&)
-</div>
+
 
 
