@@ -3,7 +3,7 @@
 
 
 
-### Pronouns: She/Her
+<p align="center">### Pronouns: She/Her</p>
 
 I made a [website](https://www.itsmedenisse.com) for myself, check it out! 
 
