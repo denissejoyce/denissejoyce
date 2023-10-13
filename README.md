@@ -11,7 +11,7 @@ You may also reach me via:
 - 👩🏽‍💻 https://www.frontendmentor.io/profile/denissejoyce
 - 📊 https://www.kaggle.com/denissejoycealido
 
-<br>
+
 ![Top Langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=denissejoyce&hide_progress=true&theme=transparent&)
 
 
