@@ -5,15 +5,13 @@ Pronouns: She/Her
 I made a <a href="https://www.itsmedenisse.com">website</a> for myself, check it out!
 </p> 
 
-<div align="left">
 You may also reach me via:
 - 📫 denisse.alido@gmail.com
 - 📚 https://medium.com/@denisse.alido
 - 👩🏽‍💻 https://www.frontendmentor.io/profile/denissejoyce
 - 📊 https://www.kaggle.com/denissejoycealido
-</div>
-  
-<div align="right">
+
+<br>
 ![Top Langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=denissejoyce&hide_progress=true&theme=transparent&)
 </div>
 
