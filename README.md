@@ -1,4 +1,5 @@
-![cover-den](https://github.com/denissejoyce/denissejoyce/assets/88027347/87af699b-c21a-438a-8732-ee970a287806)
+![IMG_1002](https://github.com/user-attachments/assets/bc996081-9f2f-48cf-b525-2ae24a1fc688)
+
 
 <p align="center">Pronouns: She/Her</p>
 <p align="center">I made a <a href="https://www.itsmedenisse.com">website</a> for myself, check it out!</p> 
